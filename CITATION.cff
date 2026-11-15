@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript below."
+title: "HeartECG: a patient-disjoint benchmark of ECG-image models with zero-shot testing on real printouts"
+authors:
+  - family-names: Rizvi
+    given-names: Qaim Mehdi
+    orcid: "https://orcid.org/0000-0002-0443-5314"
+  - family-names: Chakravarty
+    given-names: Supriya
+  - family-names: Talat
+    given-names: Sana
+license: MIT
+repository-code: "https://github.com/Dr-Qaim-Mehdi/heartecg-image-benchmark"

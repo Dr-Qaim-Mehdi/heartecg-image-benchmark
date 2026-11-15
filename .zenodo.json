@@ -1,0 +1,12 @@
+{
+  "title": "HeartECG: a patient-disjoint benchmark of ECG-image models with zero-shot testing on real printouts",
+  "description": "Code, Colab notebook and result files for the manuscript 'Heart-disease classification and myocardial-infarction detection from 12-lead ECG images: a patient-disjoint benchmark of classical, convolutional, transformer and fusion models with zero-shot testing on real printouts' (submitted to Biomedical Signal Processing and Control). PTB-XL signals are rendered as realistic 3x4 printout images with printout randomisation; classical ML pipelines, four pretrained deep backbones, a three-stream fusion network and a 1-D signal reference are compared under one patient-disjoint protocol and applied zero-shot to 928 real ECG printouts.",
+  "license": "MIT",
+  "upload_type": "software",
+  "creators": [
+    {"name": "Rizvi, Qaim Mehdi", "affiliation": "Brainware University, Kolkata, India", "orcid": "0000-0002-0443-5314"},
+    {"name": "Chakravarty, Supriya", "affiliation": "Brainware University, Kolkata, India"},
+    {"name": "Talat, Sana", "affiliation": "Brainware University, Kolkata, India"}
+  ],
+  "keywords": ["electrocardiogram", "ECG images", "myocardial infarction", "deep learning", "PTB-XL", "external validation", "benchmark"]
+}
